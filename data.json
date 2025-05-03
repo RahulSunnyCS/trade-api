@@ -1,0 +1,14 @@
+{
+  "ACCOUNT_DETAILS": [
+    {
+      "id": "id",
+      "password": 12364
+    },
+    {
+      "id": "i7d",
+      "password": 12364,
+      "secret": 999
+    }
+  ],
+  "quantipleAuthToken": ""
+}
